@@ -15,3 +15,5 @@
 + Модельки игрока и вражеского моба брались из бесплатных ассетов [unity assets store](https://assetstore.unity.com)
 + Анимации вражеского моба предоставлялись вместе с [бесплатным ассетом](https://assetstore.unity.com/packages/3d/characters/humanoids/zombie-30232)
 + Анимации для игрока брались с сайта [Mixamo.com](https://www.mixamo.com)
+
+# ТЗ выполнено в Unity 2019.4.12
